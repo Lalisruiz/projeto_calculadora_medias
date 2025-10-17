@@ -70,9 +70,9 @@ calculadora_medias/
 ## Responsividade
 
 A aplicação é totalmente responsiva e funciona perfeitamente em:
-- 💻 **Desktop** (1024px+)
-- 📱 **Tablet** (768px - 1023px)
-- 📱 **Mobile** (até 767px)
+- **Desktop** (1024px+)
+- **Tablet** (768px - 1023px)
+- **Mobile** (até 767px)
 
 ## Contexto Educacional
 
@@ -111,11 +111,11 @@ Este projeto demonstra a aplicação prática dos seguintes conceitos do módulo
 - Soma total das notas
 - Status final (Aprovado ≥ 7.0)
 
-## 📊 Critérios de Aprovação
+## Critérios de Aprovação
 
 - **Nota mínima**: 7.0
 - **Status**: Aprovado (≥7.0) | Reprovado (<7.0)
 - **Indicação visual**: Ícones coloridos para cada status
 
 ##  Desenvolvedora
-Larissa Ruiz
+Desenvolvido por Larissa Ruiz
