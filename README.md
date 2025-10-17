@@ -4,6 +4,10 @@
 
 Uma aplicação web moderna e responsiva para calcular médias de atividades acadêmicas, desenvolvida como atividade prática do curso da **EBAC (Escola Britânica de Artes Criativas e Tecnologia)**.
 
+## Deploy da Aplicação
+
+**Acesse a aplicação:** https://lari-projeto-calculadora-medias.vercel.app/
+
 ## Sobre o Projeto
 
 Este projeto faz parte do **Projeto 02** do módulo de Front-End da EBAC, focando na integração entre HTML e JavaScript. A calculadora permite que estudantes insiram suas atividades e notas para acompanhar seu desempenho acadêmico de forma visual e intuitiva.
